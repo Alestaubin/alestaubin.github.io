@@ -1,152 +1,217 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Alexandre St-Aubin",
+    "email": "alex.staubin2@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://github.com/Alestaubin",
+    "summary": "MSc student in Computer Science at The University of British Columbia. Research interests include Reinforcement Learning for Robotics, Computer Vision, and Lifelong Learning.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "1225 W 14th Avenue",
+      "postalCode": "V6H 1P7",
+      "city": "Vancouver",
+      "countryCode": "CA",
+      "region": "British Columbia"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Alestaubin",
+        "url": "https://github.com/Alestaubin"
+      },
+      {
+        "network": "Photography Portfolio",
+        "username": "alexstaubinphoto",
+        "url": "https://alexstaubinphoto.com"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Mila - Quebec AI Institute, Complex Data Lab",
+      "position": "Research Intern",
+      "startDate": "2024-07-01",
+      "endDate": "2024-12-01",
+      "summary": "Worked under Professors Reihaneh Rabbany and Jean-François Godbout. Conducted research on the societal/political impact of deepfakes and evaluated state-of-the-art diffusion models."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "McGill University, Centre for Intelligent Machines",
+      "position": "Research Intern",
+      "startDate": "2024-05-01",
+      "endDate": "2024-09-01",
+      "summary": "Conducted research in long-horizon motion control of robotic arms supervised by Prof. Hsiu-Chin Lin. Developed a method for single-shot learning of manipulation tasks."
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "McGill University, Dept. of Mathematics and Statistics",
+      "position": "Directed Reading Program Participant",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "summary": "Engaged in a machine learning study and conducted a research project on Supervised Machine Learning."
+    },
+    {
+      "company": "Agence Voltaic inc.",
+      "position": "Photographer",
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "summary": "Event photography across all Montreal Universities."
+    },
+    {
+      "company": "Institut de la Statistique du Québec (ISQ)",
+      "position": "Intern",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Developed a VBA application for survey estimation, analyzed open-ended responses, and contributed to provincial research studies (QHSHSS)."
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "The University of British Columbia",
+      "area": "Master of Science in Computer Science",
+      "studyType": "MSc",
+      "startDate": "2025-09-01",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "McGill University",
+      "area": "Mathematics and Computer Science",
+      "studyType": "Joint Honours BSc",
+      "startDate": "2022-09-01",
+      "endDate": "2025-05-01",
+      "gpa": "3.85/4.0",
+      "courses": [
+        "Applied Machine Learning",
+        "Applied Robotics",
+        "Fundamentals of Computer Vision",
+        "Honours Convex Optimization",
+        "Topics in AI for Robotics",
+        "Reinforcement Learning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "JAVA",
+        "C/C++",
+        "MATLAB",
+        "VBA",
+        "R"
+      ]
+    },
+    {
+      "name": "Tools & Technologies",
+      "keywords": [
+        "LaTeX",
+        "Unix/Linux",
+        "Git",
+        "ROS",
+        "SLURM",
+        "SQL",
+        "Pytorch",
+        "Numpy",
+        "Pandas",
+        "Excel"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native/Bilingual"
+    },
+    {
+      "language": "English",
+      "fluency": "Native/Bilingual"
+    }
+  ],
+  "awards": [
+    {
+      "title": "NSERC Canada Graduate Scholarship-Master's",
+      "date": "2025-2026",
+      "awarder": "NSERC / UBC",
+      "summary": "Amount: 27,000 CAD"
+    },
+    {
+      "title": "University of Waterloo financial support (Offer rejected)",
+      "date": "2025-2026",
+      "awarder": "David R. Cheriton School of Computer Science",
+      "summary": "Amount: 29,000 CAD / Year"
+    },
+    {
+      "title": "Science Undergraduate Research Award (SURA)",
+      "date": "Summer 2024",
+      "awarder": "McGill University",
+      "summary": "Research funding for full-time research activities. Amount: 8,700 CAD"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Computer Vision",
+        "Robotics",
+        "Autonomous Vehicles"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Single-Shot Learning of Stable Dynamical Systems for Long-Horizon Manipulation Tasks",
+      "publisher": "arXiv",
+      "releaseDate": "2024-10-01",
+      "website": "https://arxiv.org/abs/2410.01033",
+      "summary": "St-Aubin, A., Abyaneh, A. and Lin, H.-C. A novel method for single-shot learning of long-horizon manipulation tasks."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "An Introduction to Supervised Machine Learning",
+      "publisher": "McGill DRP",
+      "releaseDate": "2024-05-01",
+      "website": "https://www.math.mcgill.ca/gsams/drp/papers/papers2024/Alexandre-St-Aubin.pdf",
+      "summary": "Report generated during the Directed Reading Program at McGill University."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Intermediate Algorithm Design and Analysis (CPSC 320)",
+      "institution": "The University of British Columbia",
+      "date": "2025-09-01",
+      "role": "Teaching Assistant",
+      "description": "Hold office hours to answer questions from students and coordinate a team of undergraduate TAs for test grading. Program the bi-weekly quizzes on prairielearn."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Honours Linear Algebra (MATH 251)",
+      "institution": "McGill University",
+      "date": "2024-01-01",
+      "role": "Course Grader",
+      "description": "Graded the assignments of honours students."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Improving Drotrack (COMP 558)",
+      "category": "project",
+      "date": "Fall 2024",
+      "url": "https://github.com/Alestaubin/Improving_Drotrack_codebase",
+      "description": "Enhanced the performance of a 2020 drone-based tracking paper by implementing techniques like Kalman filters, optical flow, and ORB features."
+    },
+    {
+      "name": "Applied Machine Learning Projects (COMP 551)",
+      "category": "project",
+      "date": "Fall 2024",
+      "url": "https://github.com/Alestaubin/Applied-Machine-Learning",
+      "description": "Emotion classification using LLMs, Regularization and model evaluation, Classification of image data with MLPs and CNNs."
+    },
+    {
+      "name": "Image Deblurring (MATH 563)",
+      "category": "project",
+      "date": "Winter 2024",
+      "url": "https://github.com/Alestaubin/Convex-Optimization-Final-Project",
+      "description": "Deblurred images by implementing convex optimization algorithms such as Spingarn's Method, Primal-dual Douglas Rachford Splitting, ADMM, and Chambolle-Pock in Matlab."
     }
   ]
 }
