@@ -1,11 +1,11 @@
 ---
 title: "Single-Shot Learning of Stable Dynamical Systems for Long-Horizon Manipulation Tasks"
 collection: publications
-category: manuscripts
+category: projects
 permalink: /publication/2024-10-01-Single-shot
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is about defining a heuristic approach to segment long-horizon manipulation tasks in robotics.'
+date: 2024-10-01
+#venue: 'McGill University'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/2410.01033v2.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
