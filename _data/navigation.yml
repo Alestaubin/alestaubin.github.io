@@ -27,7 +27,7 @@ main:
   #   url: /cv/
     
   - title: "CV"
-    url: /cv-json/
+    url: "https://academicpages.github.io/files/CV_AlexandreStAubin_202601.pdf"
     
   # - title: "Guide"
   #   url: /markdown/
