@@ -32,4 +32,4 @@ I am particularly interested in how we can build robust, adaptable systems, whet
 ## Beyond the Lab
 Apart from academia, I’ve been an avid skier my whole life, though I’ll admit I come from the dark side of the sport, ski racing. These days, I’m trading racing for touring! I also enjoy running and trying out new beers.
 
-If it were up to me, I’d be out camping every single weekend. My main side thing is photography, and I make it a point to bring my camera along on every trip to capture the landscape. Feel free to check out my photography website to see some of my work: (alexstaubinphoto.com)[https://alexstaubinphoto.com/]!
+If it were up to me, I’d be out camping every single weekend. My main side thing is photography, and I make it a point to bring my camera along on every trip to capture the landscape. Feel free to check out my photography website to see some of my work at [alexstaubinphoto.com](https://alexstaubinphoto.com/)!
