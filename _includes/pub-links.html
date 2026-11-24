@@ -1,0 +1,11 @@
+{%- comment -%}Link row for a publication. Usage: {% include pub-links.html pub=post %}{%- endcomment -%}
+{%- assign pub = include.pub -%}
+{%- if pub.citation -%}<p style="font-size: smaller">Recommended citation: {{ pub.citation }}</p>{%- endif -%}
+<p class="pub-links">
+{%- if pub.paperurl %}<a class="btn btn--small btn--inverse" href="{{ pub.paperurl }}">Paper</a>{% endif -%}
+{%- if pub.arxivurl %} <a class="btn btn--small btn--inverse" href="{{ pub.arxivurl }}">arXiv</a>{% endif -%}
+{%- if pub.codeurl %} <a class="btn btn--small btn--inverse" href="{{ pub.codeurl }}">Code</a>{% endif -%}
+{%- if pub.slidesurl %} <a class="btn btn--small btn--inverse" href="{{ pub.slidesurl }}">Slides</a>{% endif -%}
+{%- if pub.posterurl %} <a class="btn btn--small btn--inverse" href="{{ pub.posterurl }}">Poster</a>{% endif -%}
+{%- if pub.bibtexurl %} <a class="btn btn--small btn--inverse" href="{{ pub.bibtexurl }}">BibTeX</a>{% endif -%}
+</p>

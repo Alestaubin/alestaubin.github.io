@@ -1,0 +1,13 @@
+{%- comment -%}Publications with `selected: true` in front matter, newest first. Kept unindented because it is included from Markdown.{%- endcomment -%}
+{%- include base_path -%}
+{%- assign selected = site.publications | where: "selected", true | sort: "date" | reverse -%}
+<div class="selected-pubs">
+{%- for pub in selected -%}
+<div class="selected-pub">
+<p class="selected-pub__title"><a href="{{ base_path }}{{ pub.url }}">{{ pub.title }}</a></p>
+{%- include pub-meta.html pub=pub -%}
+{%- include pub-links.html pub=pub -%}
+</div>
+{%- endfor -%}
+</div>
+<p><a href="{{ base_path }}/projects-and-publications/">All projects and publications &rarr;</a></p>

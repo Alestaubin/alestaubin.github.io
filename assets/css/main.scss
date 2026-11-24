@@ -41,3 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Publication metadata, link buttons and home-page selected publications */
+.pub-authors { margin: 0.25em 0 0; }
+.pub-venue { margin: 0.1em 0 0.5em; font-size: 0.9em; }
+.pub-links .btn { margin: 0 0.3em 0.3em 0; }
+.selected-pub { margin-bottom: 1.5em; }
+.selected-pub__title { margin: 0; font-weight: bold; }

@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Alexandre St-Aubin"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "MSc student in Computer Science at The University of British Columbia."
   location         : "Vancouver, British Columbia, Canada"
   employer         : "The University of British Columbia"
@@ -84,14 +84,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  publications:
+    title: 'Publications & Preprints'
   projects:
-    title: 'Projects'
+    title: 'Course Projects'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

@@ -1,0 +1,5 @@
+{%- comment -%}Authors (own name bolded), venue and date for a publication. Usage: {% include pub-meta.html pub=post %}{%- endcomment -%}
+{%- assign pub = include.pub -%}
+{%- capture me_bold %}<strong>{{ site.author.name }}</strong>{% endcapture -%}
+{%- if pub.authors %}<p class="pub-authors">{{ pub.authors | replace: site.author.name, me_bold }}</p>{% endif -%}
+<p class="pub-venue">{% if pub.venue %}<i>{{ pub.venue }}</i>, {% endif %}{{ pub.date | default: "1900-01-01" | date: "%B %Y" }}</p>

@@ -1,0 +1,14 @@
+# News items shown on the home page, newest first.
+# Fields: date (shown as written), text (markdown allowed).
+- date: "November 2026"
+  text: "The full [Dynamic Duos](/publication/dynamic-duos) paper, with Evan Shelhamer, is now under review."
+- date: "November 2026"
+  text: "Gave a talk at CSSRC 2026, a peer-reviewed student conference at UBC, showing that the gate behind the upcoming [Dynamic Duos](/publication/dynamic-duos) project works: +4.6 points on average over ImageNet-C, and about +20 on fog and snow."
+- date: "October 2026"
+  text: "Joined the [UBC Cycling Team](https://www.instagram.com/ubccycling/?hl=en)!"
+- date: "May 2026"
+  text: "Presented *Dynamic Duos: Robust Duo Adaptation Under Shift* as a poster at [AI/CRV 2026](/publication/dynamic-duos) (SFU)."
+- date: "September 2026"
+  text: "Started my Masters in Computer Science at the University of British Columbia."
+- date: "Oct 2024"
+  text: "Preprint on single-shot learning of stable dynamical systems for long-horizon manipulation is out on [arXiv](https://arxiv.org/abs/2410.01033)."
